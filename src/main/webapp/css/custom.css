@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+* {
+	font-family: 'Nanum Gothic';
+}
+h1 {
+	font-family: 'Hanna';
+}
+
+div#searchForm {
+	position: absolute;
+	top: 80%;
+	left: 40%;
+	border: solid 1px gray;
+}
+
+.disable {
+	color: gray;
+}
+
+tr {
+	line-height: 50px;
+}
